@@ -1,5 +1,5 @@
 **SQL retail sale analysis**
-create database sql_project_1;
+'''create database sql_project_1;'''
 
 **select database**
 use sql_project_1;
@@ -124,3 +124,4 @@ select shift, count(*) as total_orders from shift_transaction
 group by shift;
 
 **End Project**
+
